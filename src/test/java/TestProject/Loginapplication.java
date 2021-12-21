@@ -6,7 +6,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.Test;
 
-import testProjectObject.RediffHomepage;
 import testProjectObject.RediffLoginpage;
 
 public class Loginapplication {
@@ -36,6 +35,8 @@ public class Loginapplication {
 		driver.close();
 		
 	}
+	
+	
 	
 	
 	
